@@ -1,0 +1,34 @@
+body {
+   font-family: sans-serif;
+   background: #ffffff url("images/fon3.png")  no-repeat top center;
+  background-size: 2300px;
+}
+main {
+    font-size: 45px;
+    text-align: center;
+    margin-right: 15%;
+}
+.run {
+    color: red;
+}
+.bar {
+    color:#bbc5c7;
+    
+    
+}
+dl {
+   
+   
+    outline: 1px solid #666; /* Параметры рамки */
+    background: #fff; /* Цвет фона */
+    display:inline-block;
+    height:160px;
+    padding: 10px 10px;
+    margin:10px;
+    border-radius: 20px;
+    width: 140px;
+    line-height: 250%;
+    text-align: center;
+    }
+
+  

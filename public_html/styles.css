@@ -1,0 +1,116 @@
+ * {
+    box-sizing: border-box;
+ }
+ 
+ .zagolovok {
+    font-size: 30px;
+    font-weight: 700;
+    color: blue;
+    text-align: center;
+}
+
+.zagolovok2 {
+    font-size: 30px;
+    font-weight: 700;
+    color:black;
+    text-align: center;
+}
+
+.dela {
+    width: 170px;
+    height: 110px;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    background-color: #a18d45;
+    border:  15px ridge #222222;
+    border-radius: 20px;
+    vertical-align: top;
+    font-size: 15px;
+  
+}
+.bar {
+    background: url(../public_html/images/workout.jpg) center center/cover no-repeat;
+}
+
+.colorbar {
+    color: #ffffff;
+}
+.work {
+background:url("../public_html/images/work.jpg") center center/cover no-repeat;
+}
+
+.workcolor {
+    color: black;
+    font-weight: bold;
+}
+
+.colorajax {
+    color: #ffffff;
+}
+
+.ajax {
+    background: url("../public_html/images/ajax.jpg") center center/ cover no-repeat;
+}
+
+.beget {
+    background: url("../public_html/images/beget.jpg") center center/cover no-repeat;
+}
+
+.colorbeget {
+    color: black;
+    font-weight: bold;
+}
+.plus {
+    width: 1000px;
+   
+    }
+
+.table {
+position: fixed;
+right: 100px;
+top: 10px;
+}
+
+body {
+  padding: 0 30px;
+  font-size: 16px;
+  line-height: 26px;
+  font-family: serif;
+  color: #222222;
+  background: #ffffff url("images/fon3.png")  no-repeat center;
+  background-size: 3000px;
+  position: relative;
+}
+.avatar { /* картинка */
+    border-radius: 50%;
+    display: inline-block;
+    position: fixed;
+    right: 155px;
+    top:550px;
+    
+    
+}
+dt { /* Надписи в блоках */
+ font-size: 30px;  
+ border:15px #a18d45 ridge;
+ width: 15%;
+ padding: 15px;
+ text-align: center;
+ margin-left: 530px;
+ line-height: 120%;
+
+ 
+ 
+}
+footer {
+    font-size: 10px; 
+    background-size: auto;
+    
+}
+
+.coordinate {
+    font-weight: 700;
+    
+}
+  
